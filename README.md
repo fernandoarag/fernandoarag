@@ -36,5 +36,5 @@
 </article>
 
 <article>
-
+<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandoarag&theme=dracula' alt='contribuitions'/>
 </article>
