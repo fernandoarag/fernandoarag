@@ -36,13 +36,18 @@
 </article>
 
 <p>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoarag&theme=dracula' alt='top langs'/>
-  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandoarag&theme=dracula' alt='contribuitions'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoarag&theme=dracula' alt='top langs'/>
 </p>
 
 <br/>
 
 <p>
-  <img src='https://github-profile-trophy.vercel.app/?username=fernandoarag&theme=dracula' alt='top langs'/>
+<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandoarag&theme=dracula' alt='contribuitions'/>
+</p>
+
+<br/>
+
+<p>
+<img src='https://github-profile-trophy.vercel.app/?username=fernandoarag&theme=dracula' alt='top langs'/>
 </p>
 
