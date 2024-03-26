@@ -35,6 +35,18 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c59e2f87fdd50c00bd3c5b77c5871a5080eec9d96581f19e0cb078c74565073/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/2c59e2f87fdd50c00bd3c5b77c5871a5080eec9d96581f19e0cb078c74565073/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="VSCode" data-canonical-src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </article>
 
-<article>
-<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandoarag&theme=dracula' alt='contribuitions'/>
-</article>
+<p>
+  <div style='display: grid; grid-template-columns: 1fr 1fr;align-items: center; justify-items: center; grid-gap: 2rem;'>
+    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandoarag&theme=dracula' alt='contribuitions'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoarag&theme=dracula' alt='top langs'/>
+  </div>
+</p>
+
+<br/>
+
+<p>
+  <div style='display: grid; grid-template-columns: 1fr;align-items: center; justify-items: center; grid-gap: 2rem;'>
+    <img src='https://github-profile-trophy.vercel.app/?username=fernandoarag&theme=dracula' alt='top langs'/>
+  </div>
+</p>
+
