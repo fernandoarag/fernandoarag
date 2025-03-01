@@ -219,28 +219,36 @@
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Metodologias:
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      Agile
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      Scrum
-    </span>
+    </span><br/>
+    <ul>
+      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Agile
+        </span>  &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Scrum
+        </span>
+      </li>
+    </ul>
   </div>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Soft Skills:
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      Trabalho em equipe
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      Comunicação eficaz
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      Habilidades de pesquisa
-    </span> · &ensp;
+    </span><br/>
+    <ul>
+      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Trabalho em equipe
+        </span>  &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Comunicação eficaz
+        </span>  &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Habilidades de pesquisa
+        </span>
+      </li>
+    </ul>
   </div>
 
   <br/>
