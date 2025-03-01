@@ -263,6 +263,8 @@
     </ul>
   </div>
 
+  <hr />
+
   <br/>
 
   <div class="auto" style="font-size: 20px; display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
