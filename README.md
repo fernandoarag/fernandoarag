@@ -87,30 +87,36 @@
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Back-end: 
     </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Java.svg" width="20"/>
-      Java
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Spring.svg" width="20"/>
-      Spring Boot
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Apache Maven.svg" width="20"/>
-      Maven
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/OpenAPI.svg" width="20"/>
-      REST APIs
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Node.js.svg" width="20"/>
-      Node.js
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/PHP.svg" width="20"/>
-      PHP
-    </span> · &ensp;
+    <br/>
+    <br/>
+    <ul>
+      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Java.svg" width="20"/>
+          Java
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Spring.svg" width="20"/>
+          Spring Boot
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Apache Maven.svg" width="20"/>
+          Maven
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/OpenAPI.svg" width="20"/>
+          REST APIs
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Node.js.svg" width="20"/>
+          Node.js
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/PHP.svg" width="20"/>
+          PHP
+        </span>
+      </li>
+    </ul>
   </div>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
