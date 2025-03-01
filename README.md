@@ -40,16 +40,18 @@
     <br/>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-        <img src="./assets/JavaScript.svg" width="20"/>
-        JavaScript
-      </li>
-      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-        <img src="./assets/Angular.svg" width="20"/>
-        Angular
-      </li>
-      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-        <img src="./assets/TypeScript.svg" width="20"/>
-        TypeScript
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/JavaScript.svg" width="20"/>
+          JavaScript
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Angular.svg" width="20"/>
+          Angular
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/TypeScript.svg" width="20"/>
+          TypeScript
+        </span>
       </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/React.svg" width="20"/>
