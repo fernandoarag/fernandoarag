@@ -267,9 +267,9 @@
 
   <br/>
 
-  <div class="auto" style="font-size: 20px; display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <a href="tel:+5538998413862">Sempre aberto a novas oportunidades e desafios! Vamos conversar? 🚀</a>
-  </div>
+  <p class="auto">
+    <a href="mailto:fernandoarag@gmail.com">Sempre aberto a novas oportunidades e desafios! Vamos conversar?</a> 🚀
+  </p>
 
   <br/>
 
