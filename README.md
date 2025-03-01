@@ -37,7 +37,7 @@
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Front-end: 
     </h4>
-    <ul>
+    <ul align="center">
       <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/JavaScript.svg" width="20"/>
@@ -60,7 +60,7 @@
           NextJS
         </span>
       </ol>
-      <ol style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+      <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/HTML5.svg" width="20"/>
           HTML5
@@ -83,12 +83,12 @@
 
   <hr />
 
-  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+  <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Back-end: 
     </h4>
-    <ul>
-      <ol style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <ul align="center">
+      <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/Java.svg" width="20"/>
           Java
@@ -119,12 +119,12 @@
 
   <hr />
 
-  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+  <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Bancos de dados: 
     </h4>
-    <ul>
-      <ol style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <ul align="center">
+      <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/PostgresSQL.svg" width="20"/>
           PostgreSQL
@@ -151,12 +151,12 @@
 
   <hr />
 
-  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+  <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ DevOps e Ferramentas:
     </h4>
-    <ul>
-      <ol style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <ul align="center">
+      <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/Git.svg" width="20"/>
           Git
@@ -178,7 +178,7 @@
           GitFlow
         </span>
       </ol>
-      <ol style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+      <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/SonarQube.svg" width="20"/>
           SonarQube
@@ -201,12 +201,12 @@
 
   <hr />
 
-  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+  <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ CMS:
     </h4>
-    <ul>
-      <ol style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <ul align="center">
+      <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/WordPress.svg" width="20"/>
           WordPress
@@ -226,12 +226,12 @@
 
   <hr />
 
-  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+  <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Soft Skills:
     </h4>
-    <ul>
-      <ol style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <ul align="center">
+      <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           Trabalho em equipe
         </span>  &ensp; · &ensp;
@@ -242,17 +242,17 @@
           Habilidades de pesquisa
         </span>
       </ol>
-    </ul>
+    </ol>
   </div>
 
   <hr />
 
-  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+  <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Metodologias:
     </h4>
-    <ul>
-      <ol style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <ul align="center">
+      <ol align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           Agile
         </span>  &ensp; · &ensp;
