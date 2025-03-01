@@ -169,9 +169,9 @@
   </div>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ DevOps e Ferramentas:
-    </span><br/>
+    </h3><br/>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
