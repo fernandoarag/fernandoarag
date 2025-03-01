@@ -37,48 +37,46 @@
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Front-end: 
     </h4>
-    <ul align="center">
-      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/JavaScript.svg" width="20"/>
-          JavaScript
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Angular.svg" width="20"/>
-          Angular
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/TypeScript.svg" width="20"/>
-          TypeScript
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/React.svg" width="20"/>
-          React
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Next.js.svg" width="20"/>
-          NextJS
-        </span>
-      </p>
-      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/HTML5.svg" width="20"/>
-          HTML5
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/CSS3.svg" width="20"/>
-          CSS3
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Sass.svg" width="20"/>
-          SASS
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Tailwind CSS.svg" width="20"/>
-          Tailwind
-        </span>
-      </p>
-    </ul>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/JavaScript.svg" width="20"/>
+        JavaScript
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Angular.svg" width="20"/>
+        Angular
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/TypeScript.svg" width="20"/>
+        TypeScript
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/React.svg" width="20"/>
+        React
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Next.js.svg" width="20"/>
+        NextJS
+      </span>
+    </p>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/HTML5.svg" width="20"/>
+        HTML5
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/CSS3.svg" width="20"/>
+        CSS3
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Sass.svg" width="20"/>
+        SASS
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Tailwind CSS.svg" width="20"/>
+        Tailwind
+      </span>
+    </p>
   </div>
 
   <hr />
