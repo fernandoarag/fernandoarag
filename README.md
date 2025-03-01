@@ -265,11 +265,11 @@
 
   <hr />
 
-  <br/>
-
   <p class="auto">
     <a href="mailto:fernandoarag@gmail.com">Sempre aberto a novas oportunidades e desafios! Vamos conversar?</a> 🚀
   </p>
+
+  <hr />
 
   <br/>
 
