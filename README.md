@@ -51,9 +51,7 @@
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/TypeScript.svg" width="20"/>
           TypeScript
-        </span>
-      </li>
-      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        </span> &ensp; · &ensp;
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">          
           <img src="./assets/React.svg" width="20"/>
           React
@@ -61,13 +59,13 @@
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/Next.js.svg" width="20"/>
           NextJS
-        </span> &ensp; · &ensp;
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-          <img src="./assets/HTML5.svg" width="20"/>
-          HTML5
         </span>
       </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/HTML5.svg" width="20"/>
+          HTML5
+        </span> &ensp; · &ensp;
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/CSS3.svg" width="20"/>
           CSS3
