@@ -38,39 +38,39 @@
     ✅ Front-end: 
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/JavaScript.svg" width="22.5"/>
+      <img src="./assets/JavaScript.svg" width="20"/>
       JavaScript
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Angular.svg" width="30"/>
+      <img src="./assets/Angular.svg" width="20"/>
       Angular
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/TypeScript.svg" width="22.5"/>
+      <img src="./assets/TypeScript.svg" width="20"/>
       TypeScript
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/React.svg" width="22.5"/>
+      <img src="./assets/React.svg" width="20"/>
       React
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Next.js.svg" width="22.5"/>
+      <img src="./assets/Next.js.svg" width="20"/>
       NextJS
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/HTML5.svg" width="22.5"/>
+      <img src="./assets/HTML5.svg" width="20"/>
       HTML5
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/CSS3.svg" width="22.5"/>
+      <img src="./assets/CSS3.svg" width="20"/>
       CSS3
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Sass.svg" width="22.5"/>
+      <img src="./assets/Sass.svg" width="20"/>
       SASS
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Tailwind CSS.svg" width="22.5"/>
+      <img src="./assets/Tailwind CSS.svg" width="20"/>
       Tailwind
     </span>
   </div>
@@ -80,27 +80,27 @@
     ✅ Back-end: 
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Java.svg" width="22.5"/>
+      <img src="./assets/Java.svg" width="20"/>
       Java
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Spring.svg" width="22"/>
+      <img src="./assets/Spring.svg" width="20"/>
       Spring Boot
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Apache Maven.svg" width="22.5"/>
+      <img src="./assets/Apache Maven.svg" width="20"/>
       Maven
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/OpenAPI.svg" width="22.5"/>
+      <img src="./assets/OpenAPI.svg" width="20"/>
       REST APIs
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Node.js.svg" width="22.5"/>
+      <img src="./assets/Node.js.svg" width="20"/>
       Node.js
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/PHP.svg" width="22.5"/>
+      <img src="./assets/PHP.svg" width="20"/>
       PHP
     </span> ·
   </div>
@@ -110,23 +110,23 @@
     ✅ Bancos de dados: 
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/PostgresSQL.svg" width="22.5"/>
+      <img src="./assets/PostgresSQL.svg" width="20"/>
       PostgreSQL
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/MySQL.svg" width="22"/>
+      <img src="./assets/MySQL.svg" width="20"/>
       MySQL
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/SQL-Developer.svg" width="22.5"/>
+      <img src="./assets/SQL-Developer.svg" width="20"/>
       SQL Server
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Oracle.svg" width="22.5"/>
+      <img src="./assets/Oracle.svg" width="20"/>
       Oracle
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/SQLite.svg" width="22.5"/>
+      <img src="./assets/SQLite.svg" width="20"/>
       SQLite
     </span>
   </div>
@@ -136,7 +136,7 @@
     ✅ CMS:
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/WordPress.svg" width="22.5"/>
+      <img src="./assets/WordPress.svg" width="20"/>
       WordPress
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -155,39 +155,39 @@
     ✅ DevOps e Ferramentas:
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Git.svg" width="22.5"/>
+      <img src="./assets/Git.svg" width="20"/>
       Git
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/GitHub.svg" width="22"/>
+      <img src="./assets/GitHub.svg" width="20"/>
       GitHub
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/GitHub-Codespaces.svg" width="22"/>
+      <img src="./assets/GitHub-Codespaces.svg" width="20"/>
       GitHub Codespaces
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/GitLab.svg" width="22.5"/>
+      <img src="./assets/GitLab.svg" width="20"/>
       GitLab
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/GitHub-Actions.svg" width="22.5"/>
+      <img src="./assets/GitHub-Actions.svg" width="20"/>
       GitFlow
     </span> ·
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/SonarQube.svg" width="22.5"/>
+      <img src="./assets/SonarQube.svg" width="20"/>
       SonarQube
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Docker.svg" width="22.5"/>
+      <img src="./assets/Docker.svg" width="20"/>
       Docker
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Azure.svg" width="22.5"/>
+      <img src="./assets/Azure.svg" width="20"/>
       Azure
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Azure-SQL-Database.svg" width="22.5"/>
+      <img src="./assets/Azure-SQL-Database.svg" width="20"/>
       Azure SQL
     </span>
   </div>
