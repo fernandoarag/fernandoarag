@@ -42,35 +42,35 @@
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/JavaScript.svg" width="20"/>
         JavaScript
-      </li> · &ensp;
+      </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/Angular.svg" width="20"/>
         Angular
-      </li> · &ensp;
+      </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/TypeScript.svg" width="20"/>
         TypeScript
-      </li> · &ensp;
+      </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/React.svg" width="20"/>
         React
-      </li> · &ensp;
+      </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/Next.js.svg" width="20"/>
         NextJS
-      </li> · &ensp;
+      </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/HTML5.svg" width="20"/>
         HTML5
-      </li> · &ensp;
+      </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/CSS3.svg" width="20"/>
         CSS3
-      </li> · &ensp;
+      </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/Sass.svg" width="20"/>
         SASS
-      </li> · &ensp;
+      </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <img src="./assets/Tailwind CSS.svg" width="20"/>
         Tailwind
