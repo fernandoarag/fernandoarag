@@ -265,7 +265,7 @@
 
   <hr />
 
-  <p class="center" style="text-align: center;">
+  <p class="center" align="center" style="text-align: center;">
     <a class="center" href="mailto:fernandoarag@gmail.com">Sempre aberto a novas oportunidades e desafios! Vamos conversar?</a> 🚀
   </p>
 
