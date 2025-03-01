@@ -268,9 +268,7 @@
   <br/>
 
   <div class="auto" style="font-size: 20px; display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <a href="tel:+5538998413862" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; font-size: weight;">
-      Sempre aberto a novas oportunidades e desafios! Vamos conversar? 🚀
-    </a>
+    <a href="tel:+5538998413862">Sempre aberto a novas oportunidades e desafios! Vamos conversar? 🚀</a>
   </div>
 
   <br/>
