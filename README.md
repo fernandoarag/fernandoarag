@@ -147,29 +147,6 @@
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-    ✅ CMS:
-    </h4>
-    <ul>
-      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-          <img src="./assets/WordPress.svg" width="20"/>
-          WordPress
-        </span> &ensp; · &ensp;
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-          HubSpot
-        </span> &ensp; · &ensp;
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-          Duda
-        </span> &ensp; · &ensp;
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-          LeadLovers
-        </span>
-      </li>
-    </ul>
-  </div>
-
-  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ DevOps e Ferramentas:
     </h4>
     <ul>
@@ -218,15 +195,22 @@
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-    ✅ Metodologias:
+    ✅ CMS:
     </h4>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-          Agile
-        </span>  &ensp; · &ensp;
+          <img src="./assets/WordPress.svg" width="20"/>
+          WordPress
+        </span> &ensp; · &ensp;
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-          Scrum
+          HubSpot
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Duda
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          LeadLovers
         </span>
       </li>
     </ul>
@@ -246,6 +230,22 @@
         </span>  &ensp; · &ensp;
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           Habilidades de pesquisa
+        </span>
+      </li>
+    </ul>
+  </div>
+
+  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
+    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    ✅ Metodologias:
+    </h4>
+    <ul>
+      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Agile
+        </span>  &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Scrum
         </span>
       </li>
     </ul>
