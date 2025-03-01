@@ -118,88 +118,102 @@
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Bancos de dados: 
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/PostgresSQL.svg" width="20"/>
-      PostgreSQL
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/MySQL.svg" width="20"/>
-      MySQL
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/SQL-Developer.svg" width="20"/>
-      SQL Server
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Oracle.svg" width="20"/>
-      Oracle
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/SQLite.svg" width="20"/>
-      SQLite
-    </span>
+    </span><br/>
+    <ul>
+      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/PostgresSQL.svg" width="20"/>
+          PostgreSQL
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/MySQL.svg" width="20"/>
+          MySQL
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/SQL-Developer.svg" width="20"/>
+          SQL Server
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Oracle.svg" width="20"/>
+          Oracle
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/SQLite.svg" width="20"/>
+          SQLite
+        </span>
+      </li>
+    </ul>
   </div>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ CMS:
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/WordPress.svg" width="20"/>
-      WordPress
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      HubSpot
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      Duda
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      LeadLovers
-    </span>
+    </span><br/>
+    <ul>
+      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/WordPress.svg" width="20"/>
+          WordPress
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          HubSpot
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          Duda
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          LeadLovers
+        </span>
+      </li>
+    </ul>
   </div>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ DevOps e Ferramentas:
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Git.svg" width="20"/>
-      Git
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/GitHub.svg" width="20"/>
-      GitHub
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/GitHub-Codespaces.svg" width="20"/>
-      GitHub Codespaces
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/GitLab.svg" width="20"/>
-      GitLab
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/GitHub-Actions.svg" width="20"/>
-      GitFlow
-    </span> · &ensp;
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/SonarQube.svg" width="20"/>
-      SonarQube
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Docker.svg" width="20"/>
-      Docker
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Azure.svg" width="20"/>
-      Azure
-    </span>
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/Azure-SQL-Database.svg" width="20"/>
-      Azure SQL
-    </span>
+    </span><br/>
+    <ul>
+      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Git.svg" width="20"/>
+          Git
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/GitHub.svg" width="20"/>
+          GitHub
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/GitHub-Codespaces.svg" width="20"/>
+          GitHub Codespaces
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/GitLab.svg" width="20"/>
+          GitLab
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/GitHub-Actions.svg" width="20"/>
+          GitFlow
+        </span> &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/SonarQube.svg" width="20"/>
+          SonarQube
+        </span>
+      </li>
+      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Docker.svg" width="20"/>
+          Docker
+        </span>  &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Azure.svg" width="20"/>
+          Azure
+        </span>  &ensp; · &ensp;
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/Azure-SQL-Database.svg" width="20"/>
+          Azure SQL
+        </span>
+      </li>
+    </ul>
   </div>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
