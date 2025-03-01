@@ -1,24 +1,24 @@
 <article class="markdown-body entry-content container-lg f5 " itemprop="text">
-  <h2 dir="auto" id="top">
+  <h2 dir="auto" id="top" align="center">
     <a id="user-content-hi-there-" class="anchor" aria-hidden="true" tabindex="-1" href="#top">
       <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
       <strong>🚀 Engenheiro de Software | Especialista em Frontend | Desenvolvimento Full-Stack</strong>
     </a>
   </h2>
 
-  <p dir="auto">
+  <p dir="auto" align="center">
     Olá! Sou Fernando, um engenheiro de software apaixonado por tecnologia e focado em resultados, com mais de 5 anos de experiência em desenvolvimento full-stack.
   </p>
 
-  <p dir="auto">
+  <p dir="auto" align="center">
     Minha especialidade está no desenvolvimento Frontend nativo (HTML5, CSS3, JavaScript, TypeScript) e tenho experiência Pleno em Angular e Júnior em Java/Spring Boot, criando aplicações escaláveis e de alto desempenho. Além disso, possuo conhecimento sólido em bancos de dados como PostgreSQL, MySQL, SQL Server e Oracle.
   </p>
 
-  <p dir="auto">  
+  <p dir="auto" align="center">  
     Tenho expertise no desenvolvimento de ponta a ponta, aplicando boas práticas, padrões de design e metodologias ágeis (Scrum/Agile) para entregar soluções eficientes e inovadoras. Minha capacidade de adaptação e aprendizado rápido me permite enfrentar desafios complexos e impulsionar melhorias contínuas nos projetos em que atuo.
   </p>
 
-  <p dir="auto">  
+  <p dir="auto" align="center">  
     📩 Contato: <a href="mailto:fernandoarag@gmail.com">fernandoarag@gmail.com</a>
   </p>
 
@@ -26,7 +26,7 @@
 
   <hr>
 
-  <h2 dir="auto">
+  <h2 dir="auto" align="center">
     <a id="user-content--technologies" class="anchor" aria-hidden="true" tabindex="-1" href="#-technologies">
       <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
       ⚡ Principais Habilidades:<br/>
@@ -273,13 +273,13 @@
 
   <br/>
 
-  <div dir="auto"> 
-    <p dir="auto">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=fernandoarag&amp;show_icons=true&amp/include_all_commits=true&amp;theme=omni" style="max-width: 100%"></img>
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoarag&amp;layout=compact&amp;theme=omni" style="max-width: 100%;">
+  <div dir="auto" align="center"> 
+    <p dir="auto" align="center">
+      <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=fernandoarag&amp;show_icons=true&amp/include_all_commits=true&amp;theme=omni" style="max-width: 100%"></img>
+      <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoarag&amp;layout=compact&amp;theme=omni" style="max-width: 100%;">
     </p>
-    <p>
-      <img src='https://github-profile-trophy.vercel.app/??username=fernandoarag&layout=compact&theme=dracula' alt='top langs'/>
+    <p align="center">
+      <img align="center" src='https://github-profile-trophy.vercel.app/?username=fernandoarag&column=5&margin-w=36&margin-h=20&theme=dracula' alt='top langs'/>
     </p>
   </div>
 </article>
