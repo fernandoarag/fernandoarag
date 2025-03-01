@@ -38,7 +38,7 @@
     ✅ Front-end: 
     </h4>
     <ul align="center">
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           <img src="./assets/JavaScript.svg" width="20"/>
           JavaScript
@@ -59,8 +59,8 @@
           <img src="./assets/Next.js.svg" width="20"/>
           NextJS
         </span>
-      </ol>
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      </p>
+      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           <img src="./assets/HTML5.svg" width="20"/>
           HTML5
@@ -77,7 +77,7 @@
           <img src="./assets/Tailwind CSS.svg" width="20"/>
           Tailwind
         </span>
-      </ol>
+      </p>
     </ul>
   </div>
 
@@ -88,7 +88,7 @@
     ✅ Back-end: 
     </h4>
     <ul align="center">
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           <img src="./assets/Java.svg" width="20"/>
           Java
@@ -113,7 +113,7 @@
           <img src="./assets/PHP.svg" width="20"/>
           PHP
         </span>
-      </ol>
+      </p>
     </ul>
   </div>
 
@@ -124,7 +124,7 @@
     ✅ Bancos de dados: 
     </h4>
     <ul align="center">
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           <img src="./assets/PostgresSQL.svg" width="20"/>
           PostgreSQL
@@ -145,7 +145,7 @@
           <img src="./assets/SQLite.svg" width="20"/>
           SQLite
         </span>
-      </ol>
+      </p>
     </ul>
   </div>
 
@@ -156,7 +156,7 @@
     ✅ DevOps e Ferramentas:
     </h4>
     <ul align="center">
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           <img src="./assets/Git.svg" width="20"/>
           Git
@@ -177,8 +177,8 @@
           <img src="./assets/GitHub-Actions.svg" width="20"/>
           GitFlow
         </span>
-      </ol>
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      </p>
+      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           <img src="./assets/SonarQube.svg" width="20"/>
           SonarQube
@@ -195,7 +195,7 @@
           <img src="./assets/Azure-SQL-Database.svg" width="20"/>
           Azure SQL
         </span>
-      </ol>
+      </p>
     </ul>
   </div>
 
@@ -206,7 +206,7 @@
     ✅ CMS:
     </h4>
     <ul align="center">
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           <img src="./assets/WordPress.svg" width="20"/>
           WordPress
@@ -220,7 +220,7 @@
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           LeadLovers
         </span>
-      </ol>
+      </p>
     </ul>
   </div>
 
@@ -231,7 +231,7 @@
     ✅ Soft Skills:
     </h4>
     <ul align="center">
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           Trabalho em equipe
         </span>  &ensp; · &ensp;
@@ -241,15 +241,15 @@
         <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
           Habilidades de pesquisa
         </span>
-      </ol>
-    </ol>
+      </p>
+    </ul>
   </div>
 
   <hr />
 
   <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; padding: 0; margin-bottom: .75rem;">
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-    ✅ Metodologias:
+    ✅ Metodpogias:
     </h4>
     <ul align="center">
       <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
