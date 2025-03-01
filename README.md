@@ -85,34 +85,32 @@
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Back-end: 
     </h4>
-    <ul align="center">
-      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Java.svg" width="20"/>
-          Java
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Spring.svg" width="20"/>
-          Spring Boot
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Apache Maven.svg" width="20"/>
-          Maven
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/OpenAPI.svg" width="20"/>
-          REST APIs
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Node.js.svg" width="20"/>
-          Node.js
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/PHP.svg" width="20"/>
-          PHP
-        </span>
-      </p>
-    </ul>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Java.svg" width="20"/>
+        Java
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Spring.svg" width="20"/>
+        Spring Boot
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Apache Maven.svg" width="20"/>
+        Maven
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/OpenAPI.svg" width="20"/>
+        REST APIs
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Node.js.svg" width="20"/>
+        Node.js
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/PHP.svg" width="20"/>
+        PHP
+      </span>
+    </p>
   </div>
 
   <hr />
@@ -121,30 +119,28 @@
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Bancos de dados: 
     </h4>
-    <ul align="center">
-      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/PostgresSQL.svg" width="20"/>
-          PostgreSQL
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/MySQL.svg" width="20"/>
-          MySQL
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/SQL-Developer.svg" width="20"/>
-          SQL Server
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Oracle.svg" width="20"/>
-          Oracle
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/SQLite.svg" width="20"/>
-          SQLite
-        </span>
-      </p>
-    </ul>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/PostgresSQL.svg" width="20"/>
+        PostgreSQL
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/MySQL.svg" width="20"/>
+        MySQL
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/SQL-Developer.svg" width="20"/>
+        SQL Server
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Oracle.svg" width="20"/>
+        Oracle
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/SQLite.svg" width="20"/>
+        SQLite
+      </span>
+    </p>
   </div>
 
   <hr />
@@ -153,48 +149,46 @@
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ DevOps e Ferramentas:
     </h4>
-    <ul align="center">
-      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Git.svg" width="20"/>
-          Git
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/GitHub.svg" width="20"/>
-          GitHub
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/GitHub-Codespaces.svg" width="20"/>
-          GitHub Codespaces
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/GitLab.svg" width="20"/>
-          GitLab
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/GitHub-Actions.svg" width="20"/>
-          GitFlow
-        </span>
-      </p>
-      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/SonarQube.svg" width="20"/>
-          SonarQube
-        </span>  &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Docker.svg" width="20"/>
-          Docker
-        </span>  &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Azure.svg" width="20"/>
-          Azure
-        </span>  &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/Azure-SQL-Database.svg" width="20"/>
-          Azure SQL
-        </span>
-      </p>
-    </ul>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Git.svg" width="20"/>
+        Git
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/GitHub.svg" width="20"/>
+        GitHub
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/GitHub-Codespaces.svg" width="20"/>
+        GitHub Codespaces
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/GitLab.svg" width="20"/>
+        GitLab
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/GitHub-Actions.svg" width="20"/>
+        GitFlow
+      </span>
+    </p>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/SonarQube.svg" width="20"/>
+        SonarQube
+      </span>  &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Docker.svg" width="20"/>
+        Docker
+      </span>  &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Azure.svg" width="20"/>
+        Azure
+      </span>  &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/Azure-SQL-Database.svg" width="20"/>
+        Azure SQL
+      </span>
+    </p>
   </div>
 
   <hr />
@@ -203,23 +197,21 @@
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ CMS:
     </h4>
-    <ul align="center">
-      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          <img src="./assets/WordPress.svg" width="20"/>
-          WordPress
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          HubSpot
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          Duda
-        </span> &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          LeadLovers
-        </span>
-      </p>
-    </ul>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        <img src="./assets/WordPress.svg" width="20"/>
+        WordPress
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        HubSpot
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        Duda
+      </span> &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        LeadLovers
+      </span>
+    </p>
   </div>
 
   <hr />
@@ -228,19 +220,17 @@
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Soft Skills:
     </h4>
-    <ul align="center">
-      <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          Trabalho em equipe
-        </span>  &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          Comunicação eficaz
-        </span>  &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          Habilidades de pesquisa
-        </span>
-      </p>
-    </ul>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        Trabalho em equipe
+      </span>  &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        Comunicação eficaz
+      </span>  &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        Habilidades de pesquisa
+      </span>
+    </p>
   </div>
 
   <hr />
@@ -249,16 +239,14 @@
     <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Metodpogias:
     </h4>
-    <ul align="center">
-      <ol align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          Agile
-        </span>  &ensp; · &ensp;
-        <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
-          Scrum
-        </span>
-      </ol>
-    </ul>
+    <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        Agile
+      </span>  &ensp; · &ensp;
+      <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+        Scrum
+      </span>
+    </p>
   </div>
 
   <hr />
