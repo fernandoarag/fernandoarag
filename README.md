@@ -193,13 +193,13 @@
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/GitHub-Actions.svg" width="20"/>
           GitFlow
-        </span> &ensp; · &ensp;
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-          <img src="./assets/SonarQube.svg" width="20"/>
-          SonarQube
         </span>
       </li>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+          <img src="./assets/SonarQube.svg" width="20"/>
+          SonarQube
+        </span>  &ensp; · &ensp;
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/Docker.svg" width="20"/>
           Docker
