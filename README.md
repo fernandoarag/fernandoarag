@@ -33,21 +33,21 @@
     </a>
   </h2>
 
-  <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+  <div class="auto" align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Front-end: 
     </h4>
     <ul>
-      <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+      <li align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/JavaScript.svg" width="20"/>
           JavaScript
         </span> &ensp; · &ensp;
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/Angular.svg" width="20"/>
           Angular
         </span> &ensp; · &ensp;
-        <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+        <span align="center" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
           <img src="./assets/TypeScript.svg" width="20"/>
           TypeScript
         </span> &ensp; · &ensp;
