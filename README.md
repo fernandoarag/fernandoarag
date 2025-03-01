@@ -34,9 +34,9 @@
   </h2>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Front-end: 
-    </h4>
+    </h3>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -79,12 +79,12 @@
         </span>
       </li>
     </ul>
-  </div>
+  </div><br/>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Back-end: 
-    </span><br/>
+    </h3>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -113,12 +113,12 @@
         </span>
       </li>
     </ul>
-  </div>
+  </div><br/>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Bancos de dados: 
-    </span><br/>
+    </h3>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -143,12 +143,12 @@
         </span>
       </li>
     </ul>
-  </div>
+  </div><br/>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ CMS:
-    </span><br/>
+    </h3>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -166,7 +166,7 @@
         </span>
       </li>
     </ul>
-  </div>
+  </div><br/>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -214,12 +214,12 @@
         </span>
       </li>
     </ul>
-  </div>
+  </div><br/>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Metodologias:
-    </span><br/>
+    </h3>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -230,12 +230,12 @@
         </span>
       </li>
     </ul>
-  </div>
+  </div><br/>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Soft Skills:
-    </span><br/>
+    </h3>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
