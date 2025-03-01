@@ -36,9 +36,7 @@
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Front-end: 
-    </span>
-    <br/>
-    <br/>
+    </span><br/>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -86,9 +84,7 @@
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Back-end: 
-    </span>
-    <br/>
-    <br/>
+    </span><br/>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
