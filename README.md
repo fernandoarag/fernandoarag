@@ -108,13 +108,12 @@
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Bancos de dados: 
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
-      <img src="./assets/PostgresSQL.svg" width="22.5"/>
-      <img src="./assets/MySQL.svg" width="22"/>
-      <img src="./assets/SQL-Developer.svg" width="22.5"/>
-      <img src="./assets/Oracle.svg" width="22.5"/>
-      <img src="./assets/SQLite.svg" width="22.5"/>
-    </span>
+    ( <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+      <img src="./assets/PostgresSQL.svg" width="15"/>
+      <img src="./assets/MySQL.svg" width="15"/>
+      <img src="./assets/SQL-Developer.svg" width="15"/>
+      <img src="./assets/Oracle.svg" width="15"/>
+      <img src="./assets/SQLite.svg" width="15"/></span> )
     <span>
        - PostgreSQL · MySQL · SQL Server · Oracle · SQLite
     </span>
