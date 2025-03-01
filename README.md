@@ -81,6 +81,8 @@
     </ul>
   </div>
 
+  <hr />
+
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Back-end: 
@@ -115,6 +117,8 @@
     </ul>
   </div>
 
+  <hr />
+
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Bancos de dados: 
@@ -144,6 +148,8 @@
       </li>
     </ul>
   </div>
+
+  <hr />
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -193,6 +199,8 @@
     </ul>
   </div>
 
+  <hr />
+
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ CMS:
@@ -216,6 +224,8 @@
     </ul>
   </div>
 
+  <hr />
+
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Soft Skills:
@@ -234,6 +244,8 @@
       </li>
     </ul>
   </div>
+
+  <hr />
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
