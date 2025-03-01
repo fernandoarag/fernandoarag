@@ -34,9 +34,9 @@
   </h2>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
-    <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
+    <h4 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ Front-end: 
-    </span><br/>
+    </h4>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
@@ -171,7 +171,7 @@
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
     <h3 style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
     ✅ DevOps e Ferramentas:
-    </h3><br/>
+    </h3>
     <ul>
       <li style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
         <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
