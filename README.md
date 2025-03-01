@@ -40,35 +40,35 @@
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/JavaScript.svg" width="20"/>
       JavaScript
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Angular.svg" width="20"/>
       Angular
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/TypeScript.svg" width="20"/>
       TypeScript
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/React.svg" width="20"/>
       React
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Next.js.svg" width="20"/>
       NextJS
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/HTML5.svg" width="20"/>
       HTML5
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/CSS3.svg" width="20"/>
       CSS3
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Sass.svg" width="20"/>
       SASS
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Tailwind CSS.svg" width="20"/>
       Tailwind
@@ -82,19 +82,19 @@
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Java.svg" width="20"/>
       Java
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Spring.svg" width="20"/>
       Spring Boot
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Apache Maven.svg" width="20"/>
       Maven
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/OpenAPI.svg" width="20"/>
       REST APIs
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Node.js.svg" width="20"/>
       Node.js
@@ -102,7 +102,7 @@
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/PHP.svg" width="20"/>
       PHP
-    </span> ·
+    </span> · &ensp;
   </div>
 
   <div class="auto" style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem; margin-bottom: .75rem;">
@@ -112,19 +112,19 @@
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/PostgresSQL.svg" width="20"/>
       PostgreSQL
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/MySQL.svg" width="20"/>
       MySQL
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/SQL-Developer.svg" width="20"/>
       SQL Server
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Oracle.svg" width="20"/>
       Oracle
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/SQLite.svg" width="20"/>
       SQLite
@@ -138,13 +138,13 @@
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/WordPress.svg" width="20"/>
       WordPress
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       HubSpot
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       Duda
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       LeadLovers
     </span>
@@ -157,23 +157,23 @@
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/Git.svg" width="20"/>
       Git
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/GitHub.svg" width="20"/>
       GitHub
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/GitHub-Codespaces.svg" width="20"/>
       GitHub Codespaces
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/GitLab.svg" width="20"/>
       GitLab
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/GitHub-Actions.svg" width="20"/>
       GitFlow
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       <img src="./assets/SonarQube.svg" width="20"/>
       SonarQube
@@ -198,7 +198,7 @@
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       Agile
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       Scrum
     </span>
@@ -210,13 +210,13 @@
     </span>
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       Trabalho em equipe
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       Comunicação eficaz
-    </span> ·
+    </span> · &ensp;
     <span style="display: flex; flex-direction: row; align-items: center; grid-gap: .5rem;">
       Habilidades de pesquisa
-    </span> ·
+    </span> · &ensp;
   </div>
 
   <br/>
