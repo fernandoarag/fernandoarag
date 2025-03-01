@@ -34,9 +34,9 @@
   </h2>
 
   <div class="auto" align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0; margin-bottom: .75rem;">
-    <h3 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Front-end: 
-    </h3>
+    </h4>
     <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
       <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <img src="./assets/JavaScript.svg" width="20"/>
@@ -82,9 +82,9 @@
   <hr />
 
   <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; padding: 0; margin-bottom: .75rem;">
-    <h3 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Back-end: 
-    </h3>
+    </h4>
     <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
       <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <img src="./assets/Java.svg" width="20"/>
@@ -116,9 +116,9 @@
   <hr />
 
   <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; padding: 0; margin-bottom: .75rem;">
-    <h3 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Bancos de dados: 
-    </h3>
+    </h4>
     <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
       <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <img src="./assets/PostgresSQL.svg" width="20"/>
@@ -146,9 +146,9 @@
   <hr />
 
   <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; padding: 0; margin-bottom: .75rem;">
-    <h3 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ DevOps e Ferramentas:
-    </h3>
+    </h4>
     <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
       <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <img src="./assets/Git.svg" width="20"/>
@@ -194,9 +194,9 @@
   <hr />
 
   <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; padding: 0; margin-bottom: .75rem;">
-    <h3 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ CMS:
-    </h3>
+    </h4>
     <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
       <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         <img src="./assets/WordPress.svg" width="20"/>
@@ -217,9 +217,9 @@
   <hr />
 
   <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; padding: 0; margin-bottom: .75rem;">
-    <h3 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Soft Skills:
-    </h3>
+    </h4>
     <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
       <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         Trabalho em equipe
@@ -236,9 +236,9 @@
   <hr />
 
   <div align="center" class="auto" style="display: flex; flex-direction: row; align-items: center; padding: 0; margin-bottom: .75rem;">
-    <h3 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
+    <h4 align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
     ✅ Metodpogias:
-    </h3>
+    </h4>
     <p align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
       <span align="center" style="display: flex; flex-direction: row; align-items: center; padding: 0;">
         Agile
